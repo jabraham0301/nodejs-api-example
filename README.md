@@ -25,8 +25,8 @@ This project requires **Node** to run
 
 First, install dependencies and devDependencies:
 ```sh
-git clone https://github.com/jabraham0301/skydropx-challenge.git
-cd skydropx-challenge
+git clone https://github.com/jabraham0301/nodejs-api-example.git
+cd nodejs-api-example
 npm i
 ```
 
